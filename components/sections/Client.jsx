@@ -1,4 +1,4 @@
-import { clients } from "../../data/Client"
+import { clients } from "../../data/client"
 import ClientCard from "../cards/ClientCard"
 export default function Client(){
     return(
