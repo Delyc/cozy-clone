@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { clients } from '../../data/Client'
+import { clients } from '../../data/client'
 export default function ClientCard ({client}){
     const {imageUrl} = client
     return (

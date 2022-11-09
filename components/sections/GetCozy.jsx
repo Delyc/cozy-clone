@@ -1,4 +1,4 @@
-import Button from "../Ui/Button";
+import Button from "../ui/Button";
 import image5 from "../../public/image/image5.svg";
 // import image2 from "../../public/image/image2.svg";
 import image6 from "../../public/image/image6.webp";

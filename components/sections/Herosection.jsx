@@ -1,4 +1,4 @@
-import Button from "../Ui/Button";
+import Button from "../ui/Button";
 import heroImage from '../../public/image/hero-image.png'
 import Image from 'next/image'
 export default function Herosection(){
